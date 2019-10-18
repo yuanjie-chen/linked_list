@@ -12,7 +12,6 @@ a1.next = a2
 a2.next = a3
 a3.next = a4
 
-
 b1 = ListNode(1)
 b2 = ListNode(3)
 b3 = ListNode(4)
